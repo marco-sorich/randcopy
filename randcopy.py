@@ -129,7 +129,7 @@ def checkFFmpeg():
 # Function printHelp prints the README.md to the terminal.
 def printHelp():
 	f = open('README.md', 'r')
-	print f.read()
+	print(f.read())
 	f.close()
 
 # Function printUsage prints the command usage to the
