@@ -9,7 +9,7 @@ A typical use case might be to generate a random collection of music on a USB th
 REQUIREMENTS
 ============
 
-1. Python 2.7.x
+1. Python 3
 
 2. ffmpeg (compatible with .flac and .wma)
 
